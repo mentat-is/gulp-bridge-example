@@ -1,0 +1,10 @@
+{
+    "url_server": "http://localhost:8080",
+    "user_id": "admin",
+    "password": "admin",
+    "gulp_context_id":"host_gulp_test",
+    "bridge_name":"Bridge Example",
+    "bridge_url": "http://localhost",
+    "bridge_port": 1234,
+    "batch_size": 2
+}
